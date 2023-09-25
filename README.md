@@ -1,6 +1,9 @@
 # My-Portfolio
  Showcase of my web development projects, demonstrating my skills in front-end and software development.
 Atefeh Hosseini Portfolio
+
+<img width="914" alt="Atefeh Portfolio" src="https://github.com/AtefehHosseini/My-Portfolio/assets/116660739/13c783cf-0036-41bd-a558-be8eb23bd9ae">
+
 # Note: This website is a work in progress and will be updated regularly.
 
 This repository contains the code for my personal portfolio website. The website is designed to showcase my skills and projects as a junior front-end developer based in Dublin, Ireland. It includes sections for my home, services, recent projects, and educational background.
